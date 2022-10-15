@@ -1,0 +1,38 @@
+Order: 
+OrderSendResult(retcode=10027, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='AutoTrading disabled by client', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='AUDCADm', volume=0.01, price=0.88403, stoplimit=0.0, sl=0.91403, tp=0.78403, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 11:45:54.463035
+-------
+symbol: 
+AUDCADm
+-------
+exposure: 
+None
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25186908, order=71840859, volume=0.01, price=0.8840300000000001, bid=0.8840300000000001, ask=0.8842800000000001, comment='Request executed', request_id=408, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='AUDCADm', volume=0.01, price=0.88403, stoplimit=0.0, sl=0.91403, tp=0.78403, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 11:46:22.715588
+-------
+symbol: 
+AUDCADm
+-------
+exposure: 
+None
+-------
+signal: 
+sell
+-------
+
+-------
+

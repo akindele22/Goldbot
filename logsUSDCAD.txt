@@ -1,0 +1,2774 @@
+Order: 
+OrderSendResult(retcode=10009, deal=25186910, order=71840861, volume=0.01, price=1.28495, bid=1.28495, ask=1.28506, comment='Request executed', request_id=409, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28495, stoplimit=0.0, sl=1.31495, tp=1.18495, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 11:46:23.015592
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+None
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25187958, order=71841909, volume=0.01, price=1.2850700000000002, bid=1.2850700000000002, ask=1.2851800000000002, comment='Request executed', request_id=410, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28507, stoplimit=0.0, sl=1.31507, tp=1.1850699999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 11:53:38.896273
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.01
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25190260, order=71844993, volume=0.01, price=1.28495, bid=1.28495, ask=1.28506, comment='Request executed', request_id=412, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28495, stoplimit=0.0, sl=1.31495, tp=1.18495, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:03:39.298621
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.02
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25192569, order=71847677, volume=0.01, price=1.28506, bid=1.28506, ask=1.2852700000000001, comment='Request executed', request_id=414, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28506, stoplimit=0.0, sl=1.3150600000000001, tp=1.18506, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:13:39.772120
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.03
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25195018, order=71850136, volume=0.01, price=1.2853700000000001, bid=1.2853700000000001, ask=1.2855800000000002, comment='Request executed', request_id=416, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28537, stoplimit=0.0, sl=1.31537, tp=1.1853699999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:23:40.292310
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.04
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25197044, order=71852390, volume=0.01, price=1.2854, bid=1.2854, ask=1.2855100000000002, comment='Request executed', request_id=418, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2854, stoplimit=0.0, sl=1.3154000000000001, tp=1.1854, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:33:40.776465
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.05
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25200454, order=71856110, volume=0.01, price=1.28559, bid=1.28559, ask=1.2857, comment='Request executed', request_id=420, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28559, stoplimit=0.0, sl=1.31559, tp=1.18559, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:43:41.303025
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.060000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25202742, order=71859326, volume=0.01, price=1.2859, bid=1.2859, ask=1.28601, comment='Request executed', request_id=422, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2859, stoplimit=0.0, sl=1.3159, tp=1.1859, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 12:53:41.782267
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.07
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25205160, order=71864218, volume=0.01, price=1.28594, bid=1.28594, ask=1.2860500000000001, comment='Request executed', request_id=424, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28594, stoplimit=0.0, sl=1.31594, tp=1.18594, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:03:42.230153
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.08
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25207775, order=71869331, volume=0.01, price=1.2860900000000002, bid=1.2860900000000002, ask=1.2863, comment='Request executed', request_id=426, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28609, stoplimit=0.0, sl=1.31609, tp=1.1860899999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:13:42.704141
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.09
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25210088, order=71874100, volume=0.01, price=1.2865300000000002, bid=1.2865300000000002, ask=1.28664, comment='Request executed', request_id=428, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28653, stoplimit=0.0, sl=1.31653, tp=1.1865299999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:23:43.284669
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.09999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25213037, order=71879570, volume=0.01, price=1.2862900000000002, bid=1.2862900000000002, ask=1.2865000000000002, comment='Request executed', request_id=430, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28629, stoplimit=0.0, sl=1.31629, tp=1.1862899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:33:43.833364
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.10999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25216503, order=71885873, volume=0.01, price=1.2862, bid=1.2862, ask=1.28641, comment='Request executed', request_id=432, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2862, stoplimit=0.0, sl=1.3162, tp=1.1862, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:43:44.358641
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.11999999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25218959, order=71891561, volume=0.01, price=1.28644, bid=1.28644, ask=1.28665, comment='Request executed', request_id=434, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28644, stoplimit=0.0, sl=1.31644, tp=1.18644, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 13:53:44.833414
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.12999999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25221614, order=71897230, volume=0.01, price=1.28715, bid=1.28715, ask=1.28736, comment='Request executed', request_id=436, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28715, stoplimit=0.0, sl=1.31715, tp=1.18715, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:03:45.256294
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.13999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25224810, order=71904564, volume=0.01, price=1.28821, bid=1.28821, ask=1.2884200000000001, comment='Request executed', request_id=438, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28821, stoplimit=0.0, sl=1.31821, tp=1.18821, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:13:45.667933
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.15
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25227641, order=71910826, volume=0.01, price=1.28756, bid=1.28756, ask=1.28767, comment='Request executed', request_id=440, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28756, stoplimit=0.0, sl=1.31756, tp=1.18756, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:23:46.370013
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.16
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25229997, order=71915736, volume=0.01, price=1.28757, bid=1.28757, ask=1.28769, comment='Request executed', request_id=442, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28757, stoplimit=0.0, sl=1.3175700000000001, tp=1.18757, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:33:46.846447
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.17
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25231816, order=71920097, volume=0.01, price=1.2874, bid=1.2874, ask=1.2876100000000001, comment='Request executed', request_id=444, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2873999999999999, stoplimit=0.0, sl=1.3174, tp=1.1873999999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:43:47.281063
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.18000000000000002
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25233558, order=71924448, volume=0.01, price=1.28767, bid=1.28767, ask=1.2877800000000001, comment='Request executed', request_id=446, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2876699999999999, stoplimit=0.0, sl=1.31767, tp=1.1876699999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 14:53:47.744594
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.19000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25236622, order=71930618, volume=0.01, price=1.28769, bid=1.28769, ask=1.2878100000000001, comment='Request executed', request_id=448, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28769, stoplimit=0.0, sl=1.31769, tp=1.18769, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:03:48.198856
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.20000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25239243, order=71937815, volume=0.01, price=1.2878900000000002, bid=1.2878900000000002, ask=1.2881, comment='Request executed', request_id=450, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28789, stoplimit=0.0, sl=1.31789, tp=1.18789, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:13:48.614569
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.21000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25240660, order=71942419, volume=0.01, price=1.28831, bid=1.28831, ask=1.28852, comment='Request executed', request_id=452, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28831, stoplimit=0.0, sl=1.31831, tp=1.18831, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:23:49.096491
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.22000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25242373, order=71947182, volume=0.01, price=1.28871, bid=1.28871, ask=1.28892, comment='Request executed', request_id=454, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28871, stoplimit=0.0, sl=1.31871, tp=1.18871, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:33:49.590888
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.23000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25244245, order=71952151, volume=0.01, price=1.2886700000000002, bid=1.2886700000000002, ask=1.28888, comment='Request executed', request_id=456, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28867, stoplimit=0.0, sl=1.31867, tp=1.18867, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:43:50.034051
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.24
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25245505, order=71956119, volume=0.01, price=1.2884300000000002, bid=1.2884300000000002, ask=1.28864, comment='Request executed', request_id=458, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28843, stoplimit=0.0, sl=1.31843, tp=1.1884299999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 15:53:50.518014
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.25
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25246779, order=71959178, volume=0.01, price=1.2876800000000002, bid=1.2876800000000002, ask=1.2878900000000002, comment='Request executed', request_id=460, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28768, stoplimit=0.0, sl=1.31768, tp=1.1876799999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:03:51.008973
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.26
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25247866, order=71960889, volume=0.01, price=1.2877800000000001, bid=1.2877800000000001, ask=1.2878900000000002, comment='Request executed', request_id=462, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28778, stoplimit=0.0, sl=1.31778, tp=1.1877799999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:13:51.391311
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.27
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25249281, order=71962520, volume=0.01, price=1.2879600000000002, bid=1.2879600000000002, ask=1.28807, comment='Request executed', request_id=464, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28796, stoplimit=0.0, sl=1.31796, tp=1.18796, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:23:51.785963
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.28
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25251679, order=71965089, volume=0.01, price=1.28722, bid=1.28722, ask=1.28743, comment='Request executed', request_id=466, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28722, stoplimit=0.0, sl=1.31722, tp=1.18722, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:33:52.204232
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.29000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25253484, order=71967094, volume=0.01, price=1.28695, bid=1.28695, ask=1.2870700000000002, comment='Request executed', request_id=468, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28695, stoplimit=0.0, sl=1.31695, tp=1.18695, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:43:52.624725
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.30000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25255334, order=71969073, volume=0.01, price=1.2868600000000001, bid=1.2868600000000001, ask=1.2869700000000002, comment='Request executed', request_id=470, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28686, stoplimit=0.0, sl=1.31686, tp=1.1868599999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 16:53:53.046007
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.31000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25256700, order=71970482, volume=0.01, price=1.28679, bid=1.28679, ask=1.2870000000000001, comment='Request executed', request_id=472, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2867899999999999, stoplimit=0.0, sl=1.31679, tp=1.1867899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:03:53.513292
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.32
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25257735, order=71971562, volume=0.01, price=1.28679, bid=1.28679, ask=1.2870000000000001, comment='Request executed', request_id=474, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2867899999999999, stoplimit=0.0, sl=1.31679, tp=1.1867899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:13:53.898960
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.33
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25258757, order=71973611, volume=0.01, price=1.2859900000000002, bid=1.2859900000000002, ask=1.28638, comment='Request executed', request_id=476, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28599, stoplimit=0.0, sl=1.31599, tp=1.1859899999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:23:54.295346
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.34
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25259709, order=71976807, volume=0.01, price=1.28594, bid=1.28594, ask=1.2863300000000002, comment='Request executed', request_id=478, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28594, stoplimit=0.0, sl=1.31594, tp=1.18594, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:33:54.714450
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.35000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25260301, order=71979240, volume=0.01, price=1.28607, bid=1.28607, ask=1.2864600000000002, comment='Request executed', request_id=480, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28607, stoplimit=0.0, sl=1.31607, tp=1.18607, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:43:55.142957
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.36000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25261206, order=71982018, volume=0.01, price=1.28634, bid=1.28634, ask=1.2867300000000002, comment='Request executed', request_id=482, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28634, stoplimit=0.0, sl=1.31634, tp=1.18634, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 17:53:55.519796
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.37000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25261839, order=71984678, volume=0.01, price=1.2862300000000002, bid=1.2862300000000002, ask=1.28682, comment='Request executed', request_id=484, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28623, stoplimit=0.0, sl=1.31623, tp=1.18623, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:03:55.960453
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.38000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25262387, order=71987229, volume=0.01, price=1.2860500000000001, bid=1.2860500000000001, ask=1.2866300000000002, comment='Request executed', request_id=486, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28605, stoplimit=0.0, sl=1.31605, tp=1.1860499999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:13:56.388866
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.39000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25262923, order=71989554, volume=0.01, price=1.28604, bid=1.28604, ask=1.28662, comment='Request executed', request_id=488, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28604, stoplimit=0.0, sl=1.31604, tp=1.18604, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:23:56.827616
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25263541, order=71991952, volume=0.01, price=1.28577, bid=1.28577, ask=1.2863600000000002, comment='Request executed', request_id=490, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28577, stoplimit=0.0, sl=1.31577, tp=1.18577, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:33:57.216320
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.41000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25264035, order=71994247, volume=0.01, price=1.28539, bid=1.28539, ask=1.2859800000000001, comment='Request executed', request_id=492, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28539, stoplimit=0.0, sl=1.31539, tp=1.18539, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:43:57.629889
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.42000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25264558, order=71996673, volume=0.01, price=1.28526, bid=1.28526, ask=1.28584, comment='Request executed', request_id=494, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28526, stoplimit=0.0, sl=1.31526, tp=1.18526, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 18:53:58.055468
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.43000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25265141, order=72000732, volume=0.01, price=1.28496, bid=1.28496, ask=1.28573, comment='Request executed', request_id=496, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2849599999999999, stoplimit=0.0, sl=1.31496, tp=1.1849599999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:03:58.565749
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.44000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25265709, order=72005535, volume=0.01, price=1.2852400000000002, bid=1.2852400000000002, ask=1.2860200000000002, comment='Request executed', request_id=498, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28524, stoplimit=0.0, sl=1.31524, tp=1.1852399999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:13:58.950651
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.45000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25266295, order=72009604, volume=0.01, price=1.2853500000000002, bid=1.2853500000000002, ask=1.2861200000000002, comment='Request executed', request_id=500, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28535, stoplimit=0.0, sl=1.31535, tp=1.18535, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:23:59.353334
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4600000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25266715, order=72013057, volume=0.01, price=1.2853100000000002, bid=1.2853100000000002, ask=1.2860800000000001, comment='Request executed', request_id=502, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28531, stoplimit=0.0, sl=1.31531, tp=1.1853099999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:33:59.799402
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4700000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25267082, order=72016761, volume=0.01, price=1.2858500000000002, bid=1.2858500000000002, ask=1.2866300000000002, comment='Request executed', request_id=504, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28585, stoplimit=0.0, sl=1.31585, tp=1.1858499999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:44:00.169730
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.48000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25267561, order=72020637, volume=0.01, price=1.2860500000000001, bid=1.2860500000000001, ask=1.28682, comment='Request executed', request_id=506, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28605, stoplimit=0.0, sl=1.31605, tp=1.1860499999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 19:54:00.592087
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.49000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25268069, order=72025163, volume=0.01, price=1.2859, bid=1.2859, ask=1.2866700000000002, comment='Request executed', request_id=508, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28586, stoplimit=0.0, sl=1.31586, tp=1.18586, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:04:00.973800
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.5
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25268525, order=72030354, volume=0.01, price=1.2858800000000001, bid=1.2858800000000001, ask=1.2866600000000001, comment='Request executed', request_id=510, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2858800000000001, stoplimit=0.0, sl=1.3158800000000002, tp=1.18588, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:14:01.354250
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.51
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72035415, volume=0.01, price=1.28594, bid=1.28594, ask=1.28671, comment='Request rejected', request_id=512, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28594, stoplimit=0.0, sl=1.31594, tp=1.18594, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:24:01.737248
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.52
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25269417, order=72040889, volume=0.01, price=1.28603, bid=1.28603, ask=1.28681, comment='Request executed', request_id=514, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28603, stoplimit=0.0, sl=1.31603, tp=1.18603, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:34:02.159596
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.52
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25269918, order=72046291, volume=0.01, price=1.28586, bid=1.28586, ask=1.28665, comment='Request executed', request_id=516, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28586, stoplimit=0.0, sl=1.31586, tp=1.18586, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:44:02.610395
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.53
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72051946, volume=0.01, price=1.28559, bid=1.28559, ask=1.28638, comment='Request rejected', request_id=518, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28559, stoplimit=0.0, sl=1.31559, tp=1.18559, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 20:54:03.031881
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.54
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72056594, volume=0.01, price=1.28587, bid=1.28587, ask=1.28652, comment='Request rejected', request_id=520, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28587, stoplimit=0.0, sl=1.31587, tp=1.18587, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:04:03.543782
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.54
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25271100, order=72060040, volume=0.01, price=1.28583, bid=1.28583, ask=1.2869300000000001, comment='Request executed', request_id=522, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28583, stoplimit=0.0, sl=1.31583, tp=1.18583, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:14:03.998716
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.54
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72064129, volume=0.01, price=1.2861, bid=1.2861, ask=1.2872000000000001, comment='Request rejected', request_id=524, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2861, stoplimit=0.0, sl=1.3161, tp=1.1861, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:24:04.484321
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.55
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72068564, volume=0.01, price=1.28578, bid=1.2857800000000001, ask=1.2868700000000002, comment='Request rejected', request_id=526, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28578, stoplimit=0.0, sl=1.31578, tp=1.1857799999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:34:04.980998
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.55
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25272752, order=72073061, volume=0.01, price=1.2854700000000001, bid=1.2854700000000001, ask=1.28648, comment='Request executed', request_id=528, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2854700000000001, stoplimit=0.0, sl=1.3154700000000001, tp=1.18547, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:44:05.460026
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.55
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10006, deal=0, order=72077595, volume=0.01, price=1.28558, bid=1.2855800000000002, ask=1.28635, comment='Request rejected', request_id=530, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28558, stoplimit=0.0, sl=1.31558, tp=1.1855799999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 21:54:05.963699
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.56
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25274116, order=72085550, volume=0.01, price=1.2852800000000002, bid=1.2852800000000002, ask=1.2855500000000002, comment='Request executed', request_id=532, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28528, stoplimit=0.0, sl=1.31528, tp=1.18528, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:04:06.446592
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.56
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25274843, order=72092096, volume=0.01, price=1.2854800000000002, bid=1.2854800000000002, ask=1.28574, comment='Request executed', request_id=534, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28548, stoplimit=0.0, sl=1.31548, tp=1.1854799999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:14:06.886503
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.5700000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25275371, order=72096709, volume=0.01, price=1.28553, bid=1.28553, ask=1.2857500000000002, comment='Request executed', request_id=536, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28553, stoplimit=0.0, sl=1.31553, tp=1.18553, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:24:07.345596
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.5800000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25276776, order=72101211, volume=0.01, price=1.28563, bid=1.28563, ask=1.2858500000000002, comment='Request executed', request_id=538, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28563, stoplimit=0.0, sl=1.31563, tp=1.18563, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:34:07.810399
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.5900000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25277386, order=72105134, volume=0.01, price=1.2858100000000001, bid=1.2858100000000001, ask=1.28603, comment='Request executed', request_id=540, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2858100000000001, stoplimit=0.0, sl=1.3158100000000001, tp=1.18581, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:44:08.316784
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.6000000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25278301, order=72109801, volume=0.01, price=1.28567, bid=1.28567, ask=1.2858800000000001, comment='Request executed', request_id=542, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28567, stoplimit=0.0, sl=1.3156700000000001, tp=1.18567, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 22:54:08.839913
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.6100000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25279299, order=72113216, volume=0.01, price=1.2853800000000002, bid=1.2853800000000002, ask=1.28559, comment='Request executed', request_id=544, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28538, stoplimit=0.0, sl=1.31538, tp=1.1853799999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:04:09.297228
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.6200000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25281753, order=72118850, volume=0.01, price=1.2848300000000001, bid=1.2848300000000001, ask=1.2850400000000002, comment='Request executed', request_id=546, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28483, stoplimit=0.0, sl=1.31483, tp=1.1848299999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:14:09.780108
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.6300000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25282609, order=72121988, volume=0.01, price=1.28488, bid=1.28488, ask=1.28509, comment='Request executed', request_id=548, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28488, stoplimit=0.0, sl=1.31488, tp=1.18488, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:24:10.217335
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.64
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25283405, order=72124920, volume=0.01, price=1.28516, bid=1.28516, ask=1.2853700000000001, comment='Request executed', request_id=550, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28516, stoplimit=0.0, sl=1.31516, tp=1.18516, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:34:10.608541
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.65
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25284142, order=72127489, volume=0.01, price=1.28522, bid=1.28522, ask=1.28543, comment='Request executed', request_id=552, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28522, stoplimit=0.0, sl=1.31522, tp=1.18522, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:44:10.998485
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.66
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25284639, order=72129428, volume=0.01, price=1.28526, bid=1.28526, ask=1.2854700000000001, comment='Request executed', request_id=554, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28526, stoplimit=0.0, sl=1.31526, tp=1.18526, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-04 23:54:11.432085
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.67
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25285703, order=72131907, volume=0.01, price=1.28601, bid=1.28601, ask=1.28613, comment='Request executed', request_id=556, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28601, stoplimit=0.0, sl=1.3160100000000001, tp=1.18601, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:04:11.869951
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.68
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25286520, order=72137498, volume=0.01, price=1.2853800000000002, bid=1.2853800000000002, ask=1.28559, comment='Request executed', request_id=558, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28538, stoplimit=0.0, sl=1.31538, tp=1.1853799999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:14:12.251550
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.6900000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25287416, order=72143617, volume=0.01, price=1.2856800000000002, bid=1.2856800000000002, ask=1.2858900000000002, comment='Request executed', request_id=560, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28568, stoplimit=0.0, sl=1.31568, tp=1.1856799999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:24:12.679432
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.7000000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25287882, order=72147940, volume=0.01, price=1.2856, bid=1.2856, ask=1.2857100000000001, comment='Request executed', request_id=562, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2856, stoplimit=0.0, sl=1.3156, tp=1.1856, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:34:13.077166
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.7100000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25288526, order=72150338, volume=0.01, price=1.2850400000000002, bid=1.2850400000000002, ask=1.28525, comment='Request executed', request_id=564, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28504, stoplimit=0.0, sl=1.31504, tp=1.1850399999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:44:13.493805
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.72
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25290011, order=72153916, volume=0.01, price=1.28491, bid=1.28491, ask=1.28512, comment='Request executed', request_id=566, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28491, stoplimit=0.0, sl=1.31491, tp=1.18491, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 00:54:13.917170
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.73
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25290691, order=72155303, volume=0.01, price=1.2847400000000002, bid=1.2847400000000002, ask=1.2848600000000001, comment='Request executed', request_id=568, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28474, stoplimit=0.0, sl=1.31474, tp=1.18474, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:04:14.341592
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.74
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25291163, order=72156738, volume=0.01, price=1.2853100000000002, bid=1.2853100000000002, ask=1.28552, comment='Request executed', request_id=570, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28531, stoplimit=0.0, sl=1.31531, tp=1.1853099999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:14:14.707418
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.75
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25291808, order=72159426, volume=0.01, price=1.2856400000000001, bid=1.2856400000000001, ask=1.2858500000000002, comment='Request executed', request_id=572, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28564, stoplimit=0.0, sl=1.31564, tp=1.1856399999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:24:15.122171
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.76
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25292360, order=72160752, volume=0.01, price=1.28489, bid=1.28489, ask=1.2851000000000001, comment='Request executed', request_id=574, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2848899999999999, stoplimit=0.0, sl=1.31489, tp=1.1848899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:34:15.506136
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.77
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25293575, order=72163061, volume=0.01, price=1.2849000000000002, bid=1.2849000000000002, ask=1.2851100000000002, comment='Request executed', request_id=576, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28497, stoplimit=0.0, sl=1.31497, tp=1.1849699999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:44:15.960614
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.78
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25294339, order=72164542, volume=0.01, price=1.28478, bid=1.28478, ask=1.28499, comment='Request executed', request_id=578, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28478, stoplimit=0.0, sl=1.31478, tp=1.18478, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 01:54:16.344088
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.79
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25294799, order=72165716, volume=0.01, price=1.28513, bid=1.28513, ask=1.2852400000000002, comment='Request executed', request_id=580, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28513, stoplimit=0.0, sl=1.3151300000000001, tp=1.18513, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:04:16.764732
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.7999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25295160, order=72166145, volume=0.01, price=1.2853700000000001, bid=1.2853700000000001, ask=1.2854800000000002, comment='Request executed', request_id=582, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28537, stoplimit=0.0, sl=1.31537, tp=1.1853699999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:14:17.150791
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.8099999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25295445, order=72166576, volume=0.01, price=1.28529, bid=1.28529, ask=1.2854, comment='Request executed', request_id=584, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28529, stoplimit=0.0, sl=1.31529, tp=1.18529, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:24:17.564698
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.82
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25296032, order=72167312, volume=0.01, price=1.2859, bid=1.2859, ask=1.28601, comment='Request executed', request_id=586, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2859, stoplimit=0.0, sl=1.3159, tp=1.1859, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:34:17.973562
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.83
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25296597, order=72167866, volume=0.01, price=1.2854400000000001, bid=1.2854400000000001, ask=1.2856500000000002, comment='Request executed', request_id=588, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28544, stoplimit=0.0, sl=1.31544, tp=1.1854399999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:44:18.387539
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.84
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25296964, order=72168224, volume=0.01, price=1.286, bid=1.286, ask=1.28611, comment='Request executed', request_id=590, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.286, stoplimit=0.0, sl=1.316, tp=1.186, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 02:54:18.819482
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.85
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25297416, order=72170479, volume=0.01, price=1.2859900000000002, bid=1.2859900000000002, ask=1.2861, comment='Request executed', request_id=592, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28599, stoplimit=0.0, sl=1.31599, tp=1.1859899999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:04:19.237597
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.86
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25297738, order=72171148, volume=0.01, price=1.2860600000000002, bid=1.2860600000000002, ask=1.28618, comment='Request executed', request_id=594, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28606, stoplimit=0.0, sl=1.31606, tp=1.18606, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:14:19.622250
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.87
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25298894, order=72172750, volume=0.01, price=1.28601, bid=1.28601, ask=1.2862200000000001, comment='Request executed', request_id=596, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28601, stoplimit=0.0, sl=1.3160100000000001, tp=1.18601, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:24:20.031129
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.8799999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25299411, order=72173657, volume=0.01, price=1.28569, bid=1.28569, ask=1.2858, comment='Request executed', request_id=598, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28569, stoplimit=0.0, sl=1.31569, tp=1.18569, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:34:20.425634
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.8899999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25299787, order=72175199, volume=0.01, price=1.28583, bid=1.28583, ask=1.28594, comment='Request executed', request_id=600, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28583, stoplimit=0.0, sl=1.31583, tp=1.18583, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:44:20.797842
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.8999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25300350, order=72177349, volume=0.01, price=1.28594, bid=1.28594, ask=1.2861500000000001, comment='Request executed', request_id=602, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28594, stoplimit=0.0, sl=1.31594, tp=1.18594, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 03:54:21.219316
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9099999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25301011, order=72179259, volume=0.01, price=1.28617, bid=1.28617, ask=1.2862900000000002, comment='Request executed', request_id=604, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28617, stoplimit=0.0, sl=1.31617, tp=1.18617, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:04:21.610062
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9199999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25301687, order=72180619, volume=0.01, price=1.2855100000000002, bid=1.2855100000000002, ask=1.2857200000000002, comment='Request executed', request_id=606, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28551, stoplimit=0.0, sl=1.31551, tp=1.1855099999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:14:21.999238
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9299999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25302163, order=72181929, volume=0.01, price=1.2858500000000002, bid=1.2858500000000002, ask=1.2860600000000002, comment='Request executed', request_id=608, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28585, stoplimit=0.0, sl=1.31585, tp=1.1858499999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:24:22.382999
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.94
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25303271, order=72185418, volume=0.01, price=1.2863600000000002, bid=1.2863600000000002, ask=1.28647, comment='Request executed', request_id=610, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28636, stoplimit=0.0, sl=1.31636, tp=1.1863599999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:34:22.831010
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.95
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25303965, order=72188134, volume=0.01, price=1.2856200000000002, bid=1.2856200000000002, ask=1.28583, comment='Request executed', request_id=612, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28562, stoplimit=0.0, sl=1.31562, tp=1.18562, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:44:23.269055
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9599999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25304748, order=72190483, volume=0.01, price=1.2856100000000001, bid=1.2856100000000001, ask=1.2858200000000002, comment='Request executed', request_id=614, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28561, stoplimit=0.0, sl=1.31561, tp=1.1856099999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 04:54:23.678154
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9699999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25305639, order=72194013, volume=0.01, price=1.28523, bid=1.28523, ask=1.2854400000000001, comment='Request executed', request_id=616, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2852299999999999, stoplimit=0.0, sl=1.31523, tp=1.1852299999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:04:24.070784
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9799999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25306520, order=72197466, volume=0.01, price=1.28472, bid=1.28472, ask=1.2849300000000001, comment='Request executed', request_id=618, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28472, stoplimit=0.0, sl=1.31472, tp=1.18472, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:14:24.492345
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9899999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25307653, order=72201291, volume=0.01, price=1.2846700000000002, bid=1.2846700000000002, ask=1.28478, comment='Request executed', request_id=620, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2846199999999999, stoplimit=0.0, sl=1.31462, tp=1.1846199999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:24:24.949307
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.9999999999999999
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25308608, order=72203251, volume=0.01, price=1.2843600000000002, bid=1.2843600000000002, ask=1.2845700000000002, comment='Request executed', request_id=622, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28436, stoplimit=0.0, sl=1.31436, tp=1.1843599999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:34:25.377130
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0099999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25309794, order=72205607, volume=0.01, price=1.28481, bid=1.28481, ask=1.28492, comment='Request executed', request_id=624, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28481, stoplimit=0.0, sl=1.31481, tp=1.18481, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:44:25.822228
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0199999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25310857, order=72208840, volume=0.01, price=1.28479, bid=1.28479, ask=1.28491, comment='Request executed', request_id=626, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28479, stoplimit=0.0, sl=1.3147900000000001, tp=1.18479, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 05:54:26.287822
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0299999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25312239, order=72211266, volume=0.01, price=1.2845600000000001, bid=1.2845600000000001, ask=1.2847700000000002, comment='Request executed', request_id=628, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28456, stoplimit=0.0, sl=1.31456, tp=1.1845599999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:04:26.821665
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0399999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25313885, order=72215369, volume=0.01, price=1.2848700000000002, bid=1.2848700000000002, ask=1.28498, comment='Request executed', request_id=630, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28487, stoplimit=0.0, sl=1.31487, tp=1.1848699999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:14:27.205565
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0499999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25315190, order=72219193, volume=0.01, price=1.28469, bid=1.28469, ask=1.2849000000000002, comment='Request executed', request_id=632, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2846899999999999, stoplimit=0.0, sl=1.31469, tp=1.1846899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:24:27.581658
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+1.0599999999999998
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25316632, order=72223321, volume=0.01, price=1.2846300000000002, bid=1.2846300000000002, ask=1.2848400000000002, comment='Request executed', request_id=750, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28463, stoplimit=0.0, sl=1.31463, tp=1.1846299999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:34:27.980582
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.15
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25318408, order=72227280, volume=0.01, price=1.28465, bid=1.28465, ask=1.2847600000000001, comment='Request executed', request_id=752, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28465, stoplimit=0.0, sl=1.31465, tp=1.18465, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:44:28.369378
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.16
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25319760, order=72230759, volume=0.01, price=1.2852100000000002, bid=1.2852100000000002, ask=1.28533, comment='Request executed', request_id=754, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28521, stoplimit=0.0, sl=1.31521, tp=1.1852099999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 06:54:28.749996
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.17
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25321416, order=72234818, volume=0.01, price=1.28542, bid=1.28542, ask=1.28553, comment='Request executed', request_id=756, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28542, stoplimit=0.0, sl=1.31542, tp=1.18542, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:04:29.138578
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.18000000000000002
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25326818, order=72245685, volume=0.01, price=1.2862300000000002, bid=1.2862300000000002, ask=1.28634, comment='Request executed', request_id=758, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28623, stoplimit=0.0, sl=1.31623, tp=1.18623, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:14:29.535675
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.19000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25329239, order=72252979, volume=0.01, price=1.2860800000000001, bid=1.2860800000000001, ask=1.2862900000000002, comment='Request executed', request_id=760, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2860800000000001, stoplimit=0.0, sl=1.3160800000000001, tp=1.18608, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:24:30.041230
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.20000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25331744, order=72259102, volume=0.01, price=1.2865700000000002, bid=1.2865700000000002, ask=1.28678, comment='Request executed', request_id=762, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28657, stoplimit=0.0, sl=1.31657, tp=1.18657, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:34:30.436927
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.21000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25334164, order=72264739, volume=0.01, price=1.2877100000000001, bid=1.2877100000000001, ask=1.2878200000000002, comment='Request executed', request_id=764, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2877100000000001, stoplimit=0.0, sl=1.3177100000000002, tp=1.18771, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:44:31.049718
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.22000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25336110, order=72271706, volume=0.01, price=1.28699, bid=1.28699, ask=1.2871000000000001, comment='Request executed', request_id=766, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28699, stoplimit=0.0, sl=1.31699, tp=1.18699, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 07:54:31.513834
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.23000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25338554, order=72279663, volume=0.01, price=1.28723, bid=1.28723, ask=1.2874400000000001, comment='Request executed', request_id=768, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2872, stoplimit=0.0, sl=1.3172, tp=1.1871999999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:04:31.930769
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.24
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25342480, order=72291422, volume=0.01, price=1.28804, bid=1.28804, ask=1.2882500000000001, comment='Request executed', request_id=770, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28804, stoplimit=0.0, sl=1.31804, tp=1.18804, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:14:32.407328
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.25
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25345248, order=72300003, volume=0.01, price=1.2893700000000001, bid=1.2893700000000001, ask=1.2894800000000002, comment='Request executed', request_id=772, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28934, stoplimit=0.0, sl=1.31934, tp=1.1893399999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:24:32.885838
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.26
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25348305, order=72310932, volume=0.01, price=1.28997, bid=1.28997, ask=1.29018, comment='Request executed', request_id=774, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.28997, stoplimit=0.0, sl=1.31997, tp=1.18997, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:34:33.274491
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.27
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25350465, order=72316671, volume=0.01, price=1.2908000000000002, bid=1.2908000000000002, ask=1.2910100000000002, comment='Request executed', request_id=776, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2908, stoplimit=0.0, sl=1.3208, tp=1.1907999999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:44:33.707017
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.28
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25353799, order=72323983, volume=0.01, price=1.2917100000000001, bid=1.2917100000000001, ask=1.29183, comment='Request executed', request_id=778, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2917100000000001, stoplimit=0.0, sl=1.3217100000000002, tp=1.19171, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 08:54:34.257948
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.29000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25356285, order=72329233, volume=0.01, price=1.29207, bid=1.29207, ask=1.29228, comment='Request executed', request_id=780, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29207, stoplimit=0.0, sl=1.32207, tp=1.19207, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:04:34.716250
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.30000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25358779, order=72333547, volume=0.01, price=1.2918500000000002, bid=1.2918500000000002, ask=1.2920600000000002, comment='Request executed', request_id=782, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29185, stoplimit=0.0, sl=1.32185, tp=1.1918499999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:14:35.127578
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.31000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25360841, order=72335722, volume=0.01, price=1.29186, bid=1.29186, ask=1.29197, comment='Request executed', request_id=784, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29186, stoplimit=0.0, sl=1.32186, tp=1.19186, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:24:35.609025
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.32
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25363203, order=72339020, volume=0.01, price=1.2928000000000002, bid=1.2928000000000002, ask=1.29291, comment='Request executed', request_id=786, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2928, stoplimit=0.0, sl=1.3228, tp=1.1927999999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:34:36.106533
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.33
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25365017, order=72341199, volume=0.01, price=1.2922900000000002, bid=1.2922900000000002, ask=1.2925000000000002, comment='Request executed', request_id=788, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2923200000000001, stoplimit=0.0, sl=1.3223200000000002, tp=1.19232, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:44:36.501345
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.34
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25367358, order=72345774, volume=0.01, price=1.29268, bid=1.29268, ask=1.29279, comment='Request executed', request_id=790, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29268, stoplimit=0.0, sl=1.32268, tp=1.19268, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 09:54:36.955189
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.35000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25369365, order=72348363, volume=0.01, price=1.29193, bid=1.29193, ask=1.29214, comment='Request executed', request_id=792, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29193, stoplimit=0.0, sl=1.32193, tp=1.19193, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:04:37.360033
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.36000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25371054, order=72350298, volume=0.01, price=1.2922900000000002, bid=1.2922900000000002, ask=1.2924000000000002, comment='Request executed', request_id=794, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29229, stoplimit=0.0, sl=1.32229, tp=1.1922899999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:14:37.825175
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.37000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25372768, order=72352293, volume=0.01, price=1.2926000000000002, bid=1.2926000000000002, ask=1.29281, comment='Request executed', request_id=796, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2926, stoplimit=0.0, sl=1.3226, tp=1.1925999999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:24:38.206529
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.38000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25374460, order=72354693, volume=0.01, price=1.29255, bid=1.29255, ask=1.2926600000000001, comment='Request executed', request_id=798, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2925499999999999, stoplimit=0.0, sl=1.32255, tp=1.1925499999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:34:38.766404
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.39000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25375976, order=72356472, volume=0.01, price=1.2928600000000001, bid=1.2928600000000001, ask=1.2930700000000002, comment='Request executed', request_id=800, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.2928600000000001, stoplimit=0.0, sl=1.3228600000000001, tp=1.19286, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:44:39.181262
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25377832, order=72358683, volume=0.01, price=1.29279, bid=1.29279, ask=1.29291, comment='Request executed', request_id=802, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29279, stoplimit=0.0, sl=1.3227900000000001, tp=1.19279, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 10:54:39.650085
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.41000000000000003
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25379801, order=72360774, volume=0.01, price=1.29335, bid=1.29335, ask=1.29356, comment='Request executed', request_id=804, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29335, stoplimit=0.0, sl=1.32335, tp=1.19335, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:04:40.050318
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.42000000000000004
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25381977, order=72363166, volume=0.01, price=1.2939800000000001, bid=1.2939800000000001, ask=1.2941900000000002, comment='Request executed', request_id=806, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29398, stoplimit=0.0, sl=1.32398, tp=1.1939799999999998, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:14:40.499054
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.43000000000000005
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25385831, order=72368342, volume=0.01, price=1.2938200000000002, bid=1.2938200000000002, ask=1.29403, comment='Request executed', request_id=808, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29382, stoplimit=0.0, sl=1.32382, tp=1.1938199999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:24:40.901301
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.44000000000000006
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25388160, order=72371528, volume=0.01, price=1.2947700000000002, bid=1.2947700000000002, ask=1.29498, comment='Request executed', request_id=810, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29477, stoplimit=0.0, sl=1.32477, tp=1.1947699999999999, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:34:41.290819
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.45000000000000007
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25389962, order=72375847, volume=0.01, price=1.29509, bid=1.29509, ask=1.2952000000000001, comment='Request executed', request_id=812, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29509, stoplimit=0.0, sl=1.32509, tp=1.19509, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:44:41.689380
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4600000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=25392903, order=72383393, volume=0.01, price=1.29559, bid=1.29559, ask=1.2958, comment='Request executed', request_id=814, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='USDCADm', volume=0.01, price=1.29559, stoplimit=0.0, sl=1.32559, tp=1.19559, deviation=0, type=1, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+time: 
+2022-07-05 11:54:42.168883
+-------
+symbol: 
+USDCADm
+-------
+exposure: 
+0.4700000000000001
+-------
+signal: 
+sell
+-------
+
+-------
+
