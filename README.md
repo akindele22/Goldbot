@@ -47,7 +47,7 @@
    ```shell
    python main.py
    ```
-  2. Customize the trading strategy and indicators to fit your requirements (see [Customization](#customization)).
+  2. Customize the trading strategy and indicators to fit your requirements.
 
   3. Monitor trading results and logs for performance evaluation.
 
